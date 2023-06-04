@@ -1,3 +1,4 @@
 // Add multi-sig wallet functionality
 // Implement on-chain identity verification
 // Implement zero-knowledge proof (ZKP) support
+// Add new feature: on-chain governance
