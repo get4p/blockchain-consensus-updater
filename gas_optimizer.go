@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Fix issues with contract finalization
 // Fix compatibility issues with major wallets
+// Optimize oracle data fetching mechanism
