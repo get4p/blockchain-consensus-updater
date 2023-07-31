@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix deserialization bug in Haskell code
 // Enhance smart contract compatibility
+// Fix bugs in NFT metadata handling
