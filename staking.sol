@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance smart contract compatibility
 // Fix bugs in NFT metadata handling
+// Enhance cryptographic primitives in contracts
