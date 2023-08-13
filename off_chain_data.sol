@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize gas usage in smart contracts
 // Refactor voting mechanism
+// Fix governance proposal approval logic
