@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Improve contract state management
 // Implement rewards escrow system
+// Implement decentralized arbitration in contracts
