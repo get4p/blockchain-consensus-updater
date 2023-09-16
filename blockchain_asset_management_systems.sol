@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Refactor wallet interaction logic
 // Enhance privacy features using zk-STARKs
+// Add support for batch transaction processing
