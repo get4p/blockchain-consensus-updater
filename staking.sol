@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Fix bugs in NFT metadata handling
 // Enhance cryptographic primitives in contracts
+// Implement zero-knowledge proof (ZKP) support
