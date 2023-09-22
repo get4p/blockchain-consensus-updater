@@ -2,3 +2,4 @@
 // Fix issues with contract state management
 // Add slashing mechanism for malicious actors
 // Enhance contract initialization process
+// Fix issue with multi-chain transactions
