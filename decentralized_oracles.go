@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve contract modularity
 // Add new RPC endpoint
+// Enhance security checks
