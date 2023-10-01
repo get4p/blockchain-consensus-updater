@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Improve contract state management
 // Add support for zk-SNARKs in smart contracts
+// Enhance cryptographic primitives in contracts
