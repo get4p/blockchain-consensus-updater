@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Optimize Oracle-based data fetching
 // Implement cross-platform contract compatibility
+// Implement price feed oracles for tokens
