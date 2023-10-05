@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Optimize token burn process
 // Fix compatibility with MetaMask
+// Enhance contract modularity
