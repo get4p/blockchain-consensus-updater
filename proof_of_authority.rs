@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Fix interoperability issues with other blockchains
 // Optimize gas usage in smart contracts
+// Enhance privacy features using zk-STARKs
