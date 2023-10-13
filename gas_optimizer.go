@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Fix compatibility issues with major wallets
 // Optimize oracle data fetching mechanism
+// Add governance proposal expiration feature
