@@ -1,2 +1,3 @@
 // Improve staking pool reward management
 // Improve contract modularity
+// Add support for zk-SNARKs in smart contracts
