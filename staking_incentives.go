@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Optimize hashing algorithm
 // Refactor staking logic
+// Improve token burning mechanism
