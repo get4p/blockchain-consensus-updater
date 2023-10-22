@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Optimize gas usage in smart contracts
 // Optimize hashing algorithm
+// Optimize proof-of-stake validation
