@@ -5,3 +5,4 @@
 // Improve decentralized lending contract flexibility
 // Integrate with decentralized identity providers
 // Improve contract verification speed
+// Integrate with Ethereum Layer-2 solutions
