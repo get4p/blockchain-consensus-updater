@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate IPFS for storage
 // Fix interoperability issues with other blockchains
+// Integrate privacy-preserving mechanisms
