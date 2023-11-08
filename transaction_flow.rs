@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Optimize gas usage in smart contracts
 // Improve staking pool reward management
+// Add batch processing for transactions
