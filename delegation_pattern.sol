@@ -2,3 +2,4 @@
 // Improve contract verification speed
 // Enhance contract modularity
 // Implement on-chain identity verification
+// Add new feature: on-chain governance
