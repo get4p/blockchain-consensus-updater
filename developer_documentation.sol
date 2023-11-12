@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Implement decentralized arbitration in contracts
 // Fix issues with ERC-20 token approvals
+// Add new RPC endpoint
