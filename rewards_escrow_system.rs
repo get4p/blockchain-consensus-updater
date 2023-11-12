@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Improve contract execution speed
 // Add support for Layer-2 solutions
+// Add support for ERC-721A tokens
