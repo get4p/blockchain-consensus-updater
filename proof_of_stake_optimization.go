@@ -4,3 +4,4 @@
 // Improve contract state management
 // Implement reward distribution feature
 // Integrate decentralized prediction models
+// Refactor storage layout for better efficiency
