@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink oracles for price data
 // Improve smart contract code modularity
+// Enhance test coverage for Rust module
