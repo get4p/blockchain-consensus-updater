@@ -3,3 +3,4 @@
 // Improve contract state management
 // Integrate IPFS for storage
 // Fix bugs in decentralized exchange routing
+// Implement on-chain identity verification
