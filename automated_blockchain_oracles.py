@@ -2,3 +2,4 @@
 // Fix issues in token transfer logic
 // Add batch transaction capabilities
 // Enhance contract initialization process
+// Optimize storage for off-chain data
