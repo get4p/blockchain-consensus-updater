@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Improve token burning mechanism
 // Optimize Oracle-based data fetching
+// Update README with Go module examples
