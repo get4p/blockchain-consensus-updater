@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Enhance privacy features using zk-STARKs
 // Fix governance proposal approval logic
+// Add support for NFT marketplaces
