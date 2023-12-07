@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Implement cross-chain bridge
 // Add automated contract testing tools
+// Fix transaction replay issue
