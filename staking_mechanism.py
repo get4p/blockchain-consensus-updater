@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Fix issue with multi-chain transactions
 // Add support for fractional token ownership
+// Add support for multiple consensus mechanisms
