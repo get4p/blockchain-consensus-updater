@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate Chainlink VRF for randomness
 // Improve transaction batching efficiency
+// Fix issue in token vesting logic
