@@ -2,3 +2,4 @@
 // Improve oracle data validation mechanisms
 // Integrate IPFS for storage
 // Fix vulnerabilities in staking contracts
+// Add batch processing for transactions
