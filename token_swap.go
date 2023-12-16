@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Add dynamic contract fees
 // Fix transaction replay issue
+// Add support for yield farming rewards
