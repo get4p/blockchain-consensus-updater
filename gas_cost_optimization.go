@@ -4,3 +4,4 @@
 // Add gas optimization features for smart contracts
 // Add batch transaction capabilities
 // Enhance decentralized finance (DeFi) ecosystem
+// Refactor staking logic
