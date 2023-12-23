@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Refactor decentralized storage system
 // Add support for delegation in governance
+// Optimize storage for off-chain data
