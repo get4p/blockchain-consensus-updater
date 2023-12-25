@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage for contract deployment
+// Refactor storage layout for better efficiency
