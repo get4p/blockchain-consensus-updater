@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Improve smart contract code modularity
 // Optimize contract storage for gas reduction
+// Add batch processing for transactions
