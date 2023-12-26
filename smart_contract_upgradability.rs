@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Refactor wallet interaction logic
 // Add unit tests for staking module
+// Integrate privacy-preserving mechanisms
