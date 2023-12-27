@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Integrate IPFS for storage
 // Fix bugs in NFT metadata handling
+// Implement on-chain identity verification
