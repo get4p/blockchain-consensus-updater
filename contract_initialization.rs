@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Improve contract state management
 // Refactor reward pooling algorithm
+// Improve on-chain governance systems
