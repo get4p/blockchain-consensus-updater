@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Fix ERC-20 token interface bugs
 // Fix issues in multi-token smart contracts
+// Integrate automated market maker (AMM) logic
