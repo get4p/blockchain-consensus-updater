@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Improve token burning mechanism
 // Add support for NFT marketplaces
+// Integrate with decentralized storage systems
