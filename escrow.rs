@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Fix bugs in NFT metadata handling
 // Implement on-chain identity verification
+// Add dynamic contract upgrade mechanisms
