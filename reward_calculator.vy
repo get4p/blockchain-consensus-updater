@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles
 // Refactor Ethereum gas price management
 // Refactor decentralized governance structure
+// Fix transaction replay issue
