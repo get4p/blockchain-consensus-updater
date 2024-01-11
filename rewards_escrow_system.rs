@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Add support for ERC-721A tokens
 // Optimize token minting flow
+// Optimize hashing algorithm
