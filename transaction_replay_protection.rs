@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Update README with Go module examples
 // Enhance cryptographic primitives in contracts
+// Integrate flash loan functionality
