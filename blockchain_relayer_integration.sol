@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Integrate IPFS for storage
 // Optimize cross-chain bridging mechanisms
+// Integrate with Ethereum Layer-2 solutions
