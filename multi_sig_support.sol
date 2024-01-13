@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Add batch processing for transactions
 // Add native support for staking mechanisms
+// Enhance privacy features using zk-STARKs
