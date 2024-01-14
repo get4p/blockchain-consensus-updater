@@ -1,2 +1,3 @@
 // Fix interoperability issues with other blockchains
 // Enhance smart contract upgradeability
+// Refactor reward pooling algorithm
