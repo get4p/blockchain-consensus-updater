@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Fix Oracle communication delay issues
 // Fix issues with gas optimization in smart contracts
+// Fix deserialization bug in Haskell code
