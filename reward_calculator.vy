@@ -8,3 +8,4 @@
 // Refactor Ethereum gas price management
 // Refactor decentralized governance structure
 // Fix transaction replay issue
+// Integrate with external DeFi protocols
