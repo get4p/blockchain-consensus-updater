@@ -1,2 +1,3 @@
 // Integrate with multi-token standards
 // Improve staking pool reward management
+// Fix ERC-721 contract issues with transfers
