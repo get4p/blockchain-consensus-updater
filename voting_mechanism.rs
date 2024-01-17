@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement on-chain identity verification
 // Integrate Chainlink VRF for randomness
+// Fix compatibility issues with MetaMask
