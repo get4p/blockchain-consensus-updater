@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Update testing framework for Solidity
 // Fix issues with token transfer confirmations
+// Fix issue in token vesting logic
