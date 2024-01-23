@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix Oracle communication delay issues
 // Implement delegation pattern
+// Add support for decentralized credit scoring
