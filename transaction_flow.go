@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix ERC-721 contract issues with transfers
 // Add support for ERC-721A tokens
+// Add support for zk-SNARKs in smart contracts
