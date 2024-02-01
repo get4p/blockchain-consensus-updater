@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Implement adaptive block size for Ethereum
 // Refactor decentralized exchange (DEX) code
+// Implement delegation pattern
