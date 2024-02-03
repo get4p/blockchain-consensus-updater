@@ -2,3 +2,4 @@
 // Add dynamic contract fees
 // Enhance contract modularity for future upgrades
 // Integrate Chainlink VRF for randomness
+// Fix vulnerabilities in staking contracts
