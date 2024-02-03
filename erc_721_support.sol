@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Add support for ERC-721A tokens
 // Add support for multiple consensus mechanisms
+// Integrate Chainlink VRF for randomness
