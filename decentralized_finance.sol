@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor reward pooling algorithm
 // Improve contract state management
+// Add native support for staking mechanisms
