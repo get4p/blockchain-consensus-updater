@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Integrate Chainlink VRF for randomness
 // Improve contract creation process
+// Improve error handling in transaction flow
