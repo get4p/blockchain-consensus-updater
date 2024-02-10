@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink VRF for randomness
 // Add decentralized contract upgradeability
+// Update smart contract tests
