@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink VRF for randomness
+// Add decentralized contract upgradeability
