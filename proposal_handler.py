@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Add support for zk-SNARKs in smart contracts
 // Improve contract auditing tools
+// Add batch transaction capabilities
