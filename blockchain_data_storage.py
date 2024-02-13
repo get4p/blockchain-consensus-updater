@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Implement price feed oracles for tokens
 // Optimize token minting flow
+// Integrate Chainlink VRF for randomness
