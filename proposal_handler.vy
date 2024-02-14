@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for yield farming rewards
 // Improve staking logic for better rewards
+// Enhance governance contract flexibility
