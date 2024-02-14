@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Fix ERC-20 token interface bugs
 // Improve staking and yield farming logic
+// Integrate automated market maker (AMM) logic
