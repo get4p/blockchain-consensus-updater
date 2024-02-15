@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Optimize token minting flow
 // Optimize hashing algorithm
+// Fix governance proposal approval logic
