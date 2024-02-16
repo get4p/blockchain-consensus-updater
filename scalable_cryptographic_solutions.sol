@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix bugs in multi-token systems
 // Fix compatibility with MetaMask
+// Refactor token economics model
