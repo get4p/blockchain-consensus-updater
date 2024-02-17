@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Integrate privacy-enhancing smart contracts
 // Implement delegation pattern
+// Fix race condition in staking pool
