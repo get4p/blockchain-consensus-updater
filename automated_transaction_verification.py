@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Enhance API rate limiting for smart contracts
 // Add automated smart contract testing
+// Integrate staking rewards automation
