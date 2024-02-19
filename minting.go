@@ -3,3 +3,4 @@
 // Implement price feed oracles for tokens
 // Improve decentralized exchange (DEX) liquidity
 // Implement zero-knowledge proof (ZKP) support
+// Refactor reward pooling algorithm
