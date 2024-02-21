@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve transaction batching efficiency
 // Fix issue in token vesting logic
+// Integrate with decentralized prediction markets
