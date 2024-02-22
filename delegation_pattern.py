@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor decentralized exchange (DEX) code
 // Implement delegation pattern
+// Fix ERC-20 token interface bugs
