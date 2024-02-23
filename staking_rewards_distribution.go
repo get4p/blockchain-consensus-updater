@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Fix transaction replay issue
 // Fix overflow bug in token calculation
+// Optimize gas usage in contract execution
