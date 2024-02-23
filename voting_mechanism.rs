@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix compatibility issues with MetaMask
 // Fix contract reentrancy issues
+// Implement automated governance voting
