@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Improve contract interaction via APIs
 // Fix ERC-20 token interface bugs
+// Add support for NFT marketplaces
