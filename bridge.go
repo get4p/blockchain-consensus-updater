@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
 // Optimize decentralized application performance
+// Refactor storage layout for better efficiency
