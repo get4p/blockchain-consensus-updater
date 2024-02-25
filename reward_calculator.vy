@@ -10,3 +10,4 @@
 // Fix transaction replay issue
 // Integrate with external DeFi protocols
 // Upgrade to latest Solidity version
+// Integrate with Ethereum Layer-2 solutions
