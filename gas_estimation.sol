@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Implement delegation pattern
 // Add support for decentralized credit scoring
+// Enhance API rate limiting for smart contracts
