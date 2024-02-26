@@ -8,3 +8,4 @@
 // Integrate privacy-enhancing smart contracts
 // Implement delegation pattern
 // Fix race condition in staking pool
+// Fix deserialization bug in Haskell code
