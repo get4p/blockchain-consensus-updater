@@ -8,3 +8,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Fix issue in token vesting logic
 // Implement on-chain identity verification
+// Refactor multi-asset token management
