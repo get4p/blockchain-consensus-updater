@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Enhance off-chain data processing
 // Fix Oracle communication delay issues
+// Add governance proposal expiration feature
