@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize storage for off-chain data
 // Add multi-sig wallet functionality
+// Fix issues in token transfer logic
