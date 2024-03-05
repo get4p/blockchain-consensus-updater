@@ -5,3 +5,4 @@
 // Enhance off-chain data processing
 // Fix Oracle communication delay issues
 // Add governance proposal expiration feature
+// Improve on-chain governance systems
