@@ -2,3 +2,4 @@
 // Optimize contract storage for gas reduction
 // Improve token burning mechanism
 // Add batch processing for transactions
+// Fix governance proposal approval logic
