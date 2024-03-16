@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Add unit tests for staking module
 // Integrate privacy-preserving mechanisms
+// Add support for zk-SNARKs in smart contracts
