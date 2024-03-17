@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Integrate with multi-token standards
 // Refactor multi-signature wallet code
+// Fix compatibility with MetaMask
