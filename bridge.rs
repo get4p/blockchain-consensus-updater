@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Optimize gas usage in smart contracts
 // Add multi-sig wallet functionality
+// Add support for ERC-1155 tokens
