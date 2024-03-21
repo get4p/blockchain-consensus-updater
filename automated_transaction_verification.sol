@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Integrate with decentralized storage systems
 // Refactor reward pooling algorithm
+// Integrate Chainlink oracles for price data
