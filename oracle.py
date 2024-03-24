@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor wallet interaction logic
 // Add governance proposal expiration feature
+// Integrate Chainlink VRF for randomness
