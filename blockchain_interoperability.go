@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Improve oracle data validation mechanisms
 // Optimize decentralized oracle performance
+// Add support for zk-SNARKs in smart contracts
