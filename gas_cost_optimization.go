@@ -6,3 +6,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Refactor staking logic
 // Optimize multi-chain interaction
+// Add support for cross-chain bridges
