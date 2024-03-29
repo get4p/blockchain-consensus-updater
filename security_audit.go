@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Bugfix: incorrect reward calculation
 // Integrate zk-rollups for scaling
+// Add automated contract testing tools
