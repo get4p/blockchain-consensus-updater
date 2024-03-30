@@ -5,3 +5,4 @@
 // Improve multi-chain transaction processing
 // Enhance token swap functionality
 // Reduce gas cost in minting logic
+// Integrate Chainlink oracles for price data
