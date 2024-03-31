@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Optimize proof-of-stake validation
 // Fix governance proposal approval logic
+// Fix compatibility issues with major wallets
