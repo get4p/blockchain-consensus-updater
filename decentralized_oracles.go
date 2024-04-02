@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Add new RPC endpoint
 // Enhance security checks
+// Fix type mismatch in Haskell smart contract
