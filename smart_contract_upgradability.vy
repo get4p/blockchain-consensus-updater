@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Fix deserialization bug in Haskell code
 // Implement reward distribution feature
+// Refactor contract to use EIP-712 signatures
