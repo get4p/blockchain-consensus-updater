@@ -9,3 +9,4 @@
 // Improve contract creation process
 // Improve staking and yield farming logic
 // Improve DApp transaction flow
+// Fix bugs in NFT metadata handling
