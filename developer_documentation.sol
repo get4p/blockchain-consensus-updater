@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Fix issues with ERC-20 token approvals
 // Add new RPC endpoint
+// Implement on-chain fee adjustment mechanisms
