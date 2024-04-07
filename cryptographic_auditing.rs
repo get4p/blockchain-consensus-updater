@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Add automated token buyback mechanism
 // Improve DApp transaction flow
+// Refactor contract to use EIP-712 signatures
