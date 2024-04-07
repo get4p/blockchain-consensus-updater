@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Integrate chain-agnostic oracles
 // Refactor governance proposal logic
+// Refactor contract state machine design
