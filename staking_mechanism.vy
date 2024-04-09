@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Add multi-sig wallet functionality
 // Fix issues in token transfer logic
+// Improve decentralized identity (DID) systems
