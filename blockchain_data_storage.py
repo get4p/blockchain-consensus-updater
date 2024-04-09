@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Integrate Chainlink VRF for randomness
 // Enhance contract interaction APIs
+// Add new RPC endpoint
