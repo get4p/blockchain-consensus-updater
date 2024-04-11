@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Fix race condition in staking pool
 // Improve token burning mechanism
+// Improve smart contract code modularity
