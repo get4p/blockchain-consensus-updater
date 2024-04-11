@@ -7,3 +7,4 @@
 // Refactor voting mechanism
 // Add dynamic contract fees
 // Implement rewards escrow system
+// Add support for yield farming rewards
