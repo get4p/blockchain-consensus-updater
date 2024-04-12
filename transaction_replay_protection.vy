@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Code cleanup and documentation update
 // Update testing framework for Solidity
+// Add support for cross-chain bridges
