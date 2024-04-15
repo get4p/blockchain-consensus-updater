@@ -5,3 +5,4 @@
 // Improve oracle data validation mechanisms
 // Refactor multi-asset token management
 // Improve contract state management
+// Add support for zk-SNARKs in smart contracts
