@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve contract creation process
 // Improve error handling in transaction flow
+// Integrate with multi-token standards
