@@ -6,3 +6,4 @@
 // Enhance token swap functionality
 // Reduce gas cost in minting logic
 // Integrate Chainlink oracles for price data
+// Add support for zk-SNARKs in smart contracts
