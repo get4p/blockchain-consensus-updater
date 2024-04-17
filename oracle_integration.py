@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Fix issues with contract finalization
 // Add support for decentralized auctions
+// Add dynamic contract fees
