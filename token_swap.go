@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Fix transaction replay issue
 // Add support for yield farming rewards
+// Improve gas estimation for transactions
