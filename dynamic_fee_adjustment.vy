@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Fix ERC-1155 contract interactions
 // Refactor wallet interaction logic
+// Improve staking and yield farming logic
