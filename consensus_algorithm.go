@@ -6,3 +6,4 @@
 // Improve gas fee estimation accuracy
 // Fix bugs in multi-token systems
 // Improve token burning mechanism
+// Improve decentralized identity (DID) systems
