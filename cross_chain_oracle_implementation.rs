@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Improve contract execution speed
 // Enhance cryptographic primitives in contracts
+// Update testing framework for Solidity
