@@ -2,3 +2,4 @@
 // Enhance test coverage for Rust module
 // Improve token burning mechanism
 // Implement liquidity pool staking mechanism
+// Add support for multiple consensus mechanisms
