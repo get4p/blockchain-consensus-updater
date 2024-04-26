@@ -2,3 +2,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix errors in contract interaction with wallets
 // Implement decentralized arbitration in contracts
+// Add support for Layer-2 solutions
