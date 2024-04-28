@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Fix vulnerabilities in staking contracts
 // Add native support for staking mechanisms
+// Refactor storage layout for better efficiency
