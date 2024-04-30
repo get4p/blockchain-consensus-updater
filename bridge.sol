@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Improve smart contract code modularity
 // Fix governance proposal approval logic
+// Improve smart contract code modularity
