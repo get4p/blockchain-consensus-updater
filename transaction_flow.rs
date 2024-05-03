@@ -10,3 +10,4 @@
 // Fix race condition in staking pool
 // Fix deserialization bug in Haskell code
 // Fix errors in contract interaction with wallets
+// Fix Oracle communication delay issues
