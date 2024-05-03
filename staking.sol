@@ -9,3 +9,4 @@
 // Fix issue in token vesting logic
 // Implement on-chain identity verification
 // Refactor multi-asset token management
+// Implement on-chain identity verification
