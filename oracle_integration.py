@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Add support for decentralized auctions
 // Add dynamic contract fees
+// Add non-fungible token (NFT) support
