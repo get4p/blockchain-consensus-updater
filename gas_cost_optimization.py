@@ -10,3 +10,4 @@
 // Enhance contract initialization process
 // Improve decentralized identity (DID) systems
 // Implement a new contract event system
+// Add support for ERC-1155 tokens
