@@ -7,3 +7,4 @@
 // Fix ERC-1155 contract interactions
 // Improve decentralized exchange (DEX) liquidity
 // Fix governance proposal approval logic
+// Fix compatibility issues with major wallets
