@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Refactor oracle interaction logic
 // Fix bugs in decentralized exchange routing
+// Add batch transaction capabilities
