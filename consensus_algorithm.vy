@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix compatibility issues with MetaMask
 // Improve smart contract code modularity
+// Add support for DeFi lending protocols
