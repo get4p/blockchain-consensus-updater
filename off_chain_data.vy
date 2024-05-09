@@ -6,3 +6,4 @@
 // Implement price feed oracles for tokens
 // Refactor decentralized governance structure
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issue in ERC-20 token transfers
