@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Add unit tests for staking module
 // Integrate Chainlink VRF for randomness
+// Refactor contract event emission
