@@ -2,3 +2,4 @@
 // Improve contract state management
 // Integrate privacy-enhancing smart contracts
 // Refactor reward pooling algorithm
+// Refactor voting mechanism
