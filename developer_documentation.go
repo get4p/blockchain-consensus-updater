@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Fix interoperability issues with other blockchains
 // Integrate with multi-token standards
+// Fix issues with ERC-20 token approvals
