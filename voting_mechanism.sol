@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Improve error handling in transaction flow
 // Integrate with multi-token standards
+// Enhance security checks
