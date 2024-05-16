@@ -6,3 +6,4 @@
 // Fix ERC-1155 contract interactions
 // Refactor wallet interaction logic
 // Improve staking and yield farming logic
+// Add decentralized contract upgradeability
