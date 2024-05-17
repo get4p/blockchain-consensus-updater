@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Add support for decentralized content distribution
 // Enhance contract modularity
+// Add support for decentralized auctions
