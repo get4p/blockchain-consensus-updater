@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Refactor governance proposal logic
 // Refactor voting mechanism
+// Fix issues with gas optimization in smart contracts
