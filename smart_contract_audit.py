@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Optimize contract upgrade process
 // Improve oracle data validation mechanisms
+// Refactor reward pooling algorithm
