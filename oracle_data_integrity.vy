@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Refactor storage layout for better efficiency
 // Improve smart contract code modularity
+// Fix issue with multi-chain transactions
