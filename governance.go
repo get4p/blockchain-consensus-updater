@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix governance proposal approval logic
 // Add support for NFT marketplaces
+// Improve transaction batching efficiency
