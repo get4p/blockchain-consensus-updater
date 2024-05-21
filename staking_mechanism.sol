@@ -3,3 +3,4 @@
 // Optimize gas usage for contract deployment
 // Integrate IPFS for storage
 // Integrate Chainlink oracles for price data
+// Update testing framework for Solidity
