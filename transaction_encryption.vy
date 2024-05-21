@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Fix overflow bug in token calculation
 // Enhance governance contract flexibility
+// Optimize contract storage for gas reduction
