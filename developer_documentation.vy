@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor smart contract testing framework
 // Improve contract creation process
+// Add multi-sig wallet functionality
