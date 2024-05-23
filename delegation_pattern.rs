@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Fix memory leak in Rust smart contract
 // Improve gas estimation for transactions
+// Add multi-sig wallet functionality
