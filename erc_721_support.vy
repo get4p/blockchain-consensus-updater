@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Add support for decentralized lending platforms
 // Fix contract reentrancy issues
+// Add security checks for contract deployment
