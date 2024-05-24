@@ -6,3 +6,4 @@
 // Integrate with external DeFi protocols
 // Add support for decentralized credit scoring
 // Enhance contract state verification
+// Add support for NFT marketplaces
