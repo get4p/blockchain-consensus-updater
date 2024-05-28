@@ -2,3 +2,4 @@
 // Add gas optimization features for smart contracts
 // Refactor governance proposal logic
 // Optimize token withdrawal logic
+// Refactor voting mechanism
