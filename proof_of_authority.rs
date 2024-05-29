@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Enhance privacy features using zk-STARKs
 // Integrate zk-rollups for scaling
+// Upgrade to latest Solidity version
