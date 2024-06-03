@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Update README with Go module examples
 // Integrate IPFS for storage
+// Refactor token distribution mechanism
