@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve gas estimation for transactions
 // Enhance transaction monitoring
+// Refactor storage layout for better efficiency
