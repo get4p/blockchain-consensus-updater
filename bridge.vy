@@ -6,3 +6,4 @@
 // Fix errors in NFT minting logic
 // Improve security for token minting contracts
 // Integrate staking rewards automation
+// Refactor staking logic
