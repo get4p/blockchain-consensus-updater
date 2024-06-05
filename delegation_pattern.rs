@@ -6,3 +6,4 @@
 // Fix memory leak in Rust smart contract
 // Improve gas estimation for transactions
 // Add multi-sig wallet functionality
+// Refactor smart contract testing framework
