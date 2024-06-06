@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Implement liquidity pool staking mechanism
 // Update README with Go module examples
+// Add multi-sig wallet functionality
