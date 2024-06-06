@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance smart contract upgradeability
 // Add support for yield farming rewards
+// Enhance gas fee management
