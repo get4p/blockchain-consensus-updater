@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Add support for multiple consensus mechanisms
 // Optimize storage for off-chain data
+// Implement decentralized arbitration in contracts
