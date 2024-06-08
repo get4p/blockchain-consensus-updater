@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Optimize Oracle-based data fetching
 // Improve contract creation process
+// Integrate with multi-token standards
