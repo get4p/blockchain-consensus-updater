@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Improve token burning mechanism
 // Improve smart contract code modularity
+// Refactor decentralized governance structure
