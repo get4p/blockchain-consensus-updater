@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Fix bug in random number generation
 // Improve gas fee estimation accuracy
+// Enhance contract event handling
