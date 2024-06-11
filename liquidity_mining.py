@@ -9,3 +9,4 @@
 // Improve contract modularity
 // Improve oracle data validation mechanisms
 // Fix issues with gas optimization in smart contracts
+// Fix ERC-20 token interface bugs
