@@ -5,3 +5,4 @@
 // Optimize Oracle-based data fetching
 // Improve contract creation process
 // Integrate with multi-token standards
+// Add support for NFT marketplaces
