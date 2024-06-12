@@ -2,3 +2,4 @@
 // Improve cross-chain asset management
 // Fix issues in token transfer logic
 // Integrate with decentralized prediction markets
+// Refactor smart contract testing framework
