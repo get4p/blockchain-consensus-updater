@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement emergency stop mechanism
 // Refactor decentralized storage system
+// Fix issue in token vesting logic
