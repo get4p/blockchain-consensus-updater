@@ -5,3 +5,4 @@
 // Optimize cross-chain communication
 // Refactor incentive structure in DeFi protocol
 // Refactor incentive structure in DeFi protocol
+// Integrate chain-agnostic oracles
