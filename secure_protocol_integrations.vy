@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Refactor oracle interaction logic
 // Add decentralized contract upgradeability
+// Implement automated governance voting
