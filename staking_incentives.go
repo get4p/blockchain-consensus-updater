@@ -8,3 +8,4 @@
 // Integrate with decentralized storage systems
 // Implement decentralized arbitration in contracts
 // Implement adaptive block size for Ethereum
+// Fix deserialization bug in Haskell code
