@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Add support for multi-signature wallet contracts
 // Improve scalability for smart contract platforms
+// Add security checks for contract deployment
