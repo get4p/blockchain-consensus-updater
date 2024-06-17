@@ -8,3 +8,4 @@
 // Add support for decentralized auctions
 // Add dynamic contract fees
 // Add non-fungible token (NFT) support
+// Add support for decentralized auctions
