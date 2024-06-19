@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Enhance smart contract state changes monitoring
 // Add support for cross-chain bridges
+// Fix issue in token vesting logic
