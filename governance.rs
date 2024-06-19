@@ -5,3 +5,4 @@
 // Fix scalability issues with smart contracts
 // Refactor decentralized storage system
 // Refactor decentralized storage system
+// Add native support for staking rewards
