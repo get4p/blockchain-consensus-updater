@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Add multi-sig wallet functionality
 // Refactor smart contract testing framework
+// Fix issue in token vesting logic
