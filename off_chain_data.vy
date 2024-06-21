@@ -8,3 +8,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issue in ERC-20 token transfers
 // Add multi-sig wallet functionality
+// Fix errors in contract interaction with wallets
