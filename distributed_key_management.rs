@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Implement emergency stop mechanism
 // Refactor staking logic
+// Refactor staking logic
