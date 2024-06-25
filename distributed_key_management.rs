@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Improve contract modularity
 // Implement emergency stop mechanism
+// Refactor staking logic
