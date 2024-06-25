@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Enhance contract modularity
 // Fix issues with contract state management
+// Improve token burning mechanism
