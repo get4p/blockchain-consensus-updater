@@ -5,3 +5,4 @@
 // Refactor smart contract testing framework
 // Improve contract creation process
 // Add multi-sig wallet functionality
+// Fix governance proposal approval logic
