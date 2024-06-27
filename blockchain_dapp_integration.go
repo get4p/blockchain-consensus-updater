@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Enhance test coverage for Rust module
 // Enhance security checks
+// Fix interoperability issues with other blockchains
