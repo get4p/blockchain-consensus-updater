@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate IPFS for storage
 // Implement adaptive block size for Ethereum
+// Add security checks for contract deployment
