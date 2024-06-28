@@ -2,3 +2,4 @@
 // Improve contract execution performance
 // Fix transaction replay issue
 // Fix vulnerabilities in staking contracts
+// Integrate IPFS for storage
