@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Enhance transaction monitoring
 // Optimize decentralized oracle performance
+// Fix governance proposal approval logic
