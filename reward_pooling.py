@@ -8,3 +8,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix governance proposal approval logic
 // Fix compatibility issues with major wallets
+// Fix Oracle communication delay issues
