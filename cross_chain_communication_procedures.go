@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Improve cross-chain asset management
 // Update testing framework for Solidity
+// Refactor reward pooling algorithm
