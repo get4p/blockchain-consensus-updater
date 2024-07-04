@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Fix bugs in decentralized exchange routing
 // Add batch transaction capabilities
+// Add fallback mechanism in Solidity contract
