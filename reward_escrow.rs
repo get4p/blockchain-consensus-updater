@@ -4,3 +4,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix deserialization bug in Haskell code
 // Add support for yield farming rewards
+// Add decentralized contract upgradeability
