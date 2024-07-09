@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Add dynamic contract upgrade mechanisms
 // Improve error handling in transaction flow
+// Add multi-chain transaction support
