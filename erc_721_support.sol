@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Add decentralized contract upgradeability
 // Update smart contract tests
+// Refactor validator reward system
