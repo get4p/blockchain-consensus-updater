@@ -6,3 +6,4 @@
 // Refactor decentralized storage system
 // Refactor decentralized storage system
 // Add native support for staking rewards
+// Integrate Chainlink VRF for randomness
