@@ -6,3 +6,4 @@
 // Enhance security checks
 // Implement cross-chain bridge
 // Improve smart contract logging
+// Fix compatibility with MetaMask
