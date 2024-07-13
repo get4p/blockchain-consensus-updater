@@ -11,3 +11,4 @@
 // Improve DApp transaction flow
 // Fix bugs in NFT metadata handling
 // Improve contract verification speed
+// Improve decentralized oracle protocols
