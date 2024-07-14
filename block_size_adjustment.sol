@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Improve gas fee estimation accuracy
 // Enhance contract event handling
+// Fix overflow bug in token calculation
