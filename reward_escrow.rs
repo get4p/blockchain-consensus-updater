@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Add support for yield farming rewards
 // Add decentralized contract upgradeability
+// Refactor decentralized storage system
