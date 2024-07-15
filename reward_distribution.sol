@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Enhance token swap functionality
 // Improve smart contract code modularity
+// Refactor storage layout for better efficiency
