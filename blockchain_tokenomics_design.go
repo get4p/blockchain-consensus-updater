@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Improve gas estimation for transactions
 // Improve staking and yield farming logic
+// Add native support for staking mechanisms
