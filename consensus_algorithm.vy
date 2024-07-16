@@ -7,3 +7,4 @@
 // Improve smart contract code modularity
 // Add support for DeFi lending protocols
 // Implement delegation pattern
+// Enhance logging for better debugging
