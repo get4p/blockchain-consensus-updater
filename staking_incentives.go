@@ -9,3 +9,4 @@
 // Implement decentralized arbitration in contracts
 // Implement adaptive block size for Ethereum
 // Fix deserialization bug in Haskell code
+// Add native support for staking rewards
