@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Improve on-chain governance systems
 // Fix issues with cross-chain transaction finality
+// Implement reward distribution feature
