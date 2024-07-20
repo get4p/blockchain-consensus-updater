@@ -7,3 +7,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance contract upgrade mechanism
 // Implement liquidity pool staking mechanism
+// Refactor reward pooling algorithm
