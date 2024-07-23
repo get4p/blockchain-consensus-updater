@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Fix issue with multi-chain transactions
 // Enhance test coverage for Rust module
+// Implement on-chain identity verification
