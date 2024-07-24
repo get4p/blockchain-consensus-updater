@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Fix interoperability issues with other blockchains
 // Refactor multi-asset token management
+// Improve decentralized identity (DID) systems
