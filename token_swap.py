@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Add gas optimization features for smart contracts
 // Optimize Oracle-based data fetching
+// Refactor voting mechanism
