@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Integrate flash loan functionality
 // Integrate Chainlink VRF for randomness
+// Fix issues with contract finalization
