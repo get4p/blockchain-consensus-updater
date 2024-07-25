@@ -7,3 +7,4 @@
 // Add decentralized contract upgradeability
 // Update smart contract tests
 // Refactor validator reward system
+// Improve API rate limiting
