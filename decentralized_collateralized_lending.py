@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Integrate decentralized prediction models
 // Improve security in decentralized applications
+// Add slashing mechanism for malicious actors
