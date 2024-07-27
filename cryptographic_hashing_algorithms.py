@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Integrate Chainlink oracles for price data
 // Enhance contract initialization process
+// Refactor oracle interaction logic
