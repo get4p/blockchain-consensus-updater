@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Add support for fractional token ownership
 // Enhance security checks
+// Fix contract reentrancy issues
