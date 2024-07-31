@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Optimize contract upgrade process
 // Add governance proposal expiration feature
+// Add Layer-2 Ethereum scaling solutions
