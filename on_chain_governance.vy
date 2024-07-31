@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Improve contract modularity
 // Fix issues with contract state management
+// Add support for ERC-1155 tokens
