@@ -9,3 +9,4 @@
 // Improve contract modularity
 // Add support for multiple consensus mechanisms
 // Implement delegation pattern
+// Improve transaction batching efficiency
