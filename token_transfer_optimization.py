@@ -7,3 +7,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize hashing algorithm
 // Improve contract creation process
+// Implement cross-chain bridge
