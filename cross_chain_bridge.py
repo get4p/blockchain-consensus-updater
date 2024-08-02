@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Implement rewards escrow system
 // Improve gas fee estimation accuracy
+// Enhance test coverage for Rust module
