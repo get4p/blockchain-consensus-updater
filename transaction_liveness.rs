@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix compatibility with MetaMask
 // Improve gas estimation for transactions
+// Implement liquidity pool staking mechanism
