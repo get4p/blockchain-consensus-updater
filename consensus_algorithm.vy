@@ -8,3 +8,4 @@
 // Add support for DeFi lending protocols
 // Implement delegation pattern
 // Enhance logging for better debugging
+// Add multi-chain transaction support
