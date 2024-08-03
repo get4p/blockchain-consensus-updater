@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Optimize multi-chain interaction
 // Add support for cross-chain bridges
+// Add support for decentralized insurance protocols
