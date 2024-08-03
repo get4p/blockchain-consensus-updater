@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Add support for yield farming rewards
 // Improve gas estimation for transactions
+// Integrate decentralized anonymous identity systems
