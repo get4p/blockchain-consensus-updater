@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Fix bugs in multi-token systems
 // Fix transaction replay issue
+// Enhance contract upgrade process
