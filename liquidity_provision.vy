@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor multi-signature wallet code
 // Optimize token minting flow
+// Add support for batch transaction processing
