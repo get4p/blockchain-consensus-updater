@@ -6,3 +6,4 @@
 // Integrate flash loan functionality
 // Implement performance optimizations for DeFi
 // Refactor incentive structure in DeFi protocol
+// Refactor reward pooling algorithm
