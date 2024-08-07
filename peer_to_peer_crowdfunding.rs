@@ -5,3 +5,4 @@
 // Enhance off-chain data processing
 // Fix bugs in multi-token systems
 // Enhance smart contract audit tools
+// Add support for zk-SNARKs in smart contracts
