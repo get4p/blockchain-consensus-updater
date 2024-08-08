@@ -5,3 +5,4 @@
 // Improve security in decentralized applications
 // Enhance gas fee management
 // Implement automated governance voting
+// Add native support for staking mechanisms
