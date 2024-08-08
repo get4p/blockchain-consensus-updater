@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Add support for zk-SNARKs in smart contracts
 // Fix issues in token transfer logic
+// Integrate IPFS for storage
