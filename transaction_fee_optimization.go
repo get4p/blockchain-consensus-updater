@@ -2,3 +2,4 @@
 // Update dependencies for Vyper contract
 // Fix issues with contract state management
 // Add native support for staking mechanisms
+// Improve error handling in transaction flow
