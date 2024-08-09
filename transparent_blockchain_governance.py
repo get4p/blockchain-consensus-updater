@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Refactor contract event emission
 // Add governance proposal expiration feature
+// Improve error handling in transaction flow
