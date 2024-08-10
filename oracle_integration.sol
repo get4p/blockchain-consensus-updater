@@ -7,3 +7,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate automated market maker (AMM) logic
 // Implement reward distribution feature
+// Enhance API rate limiting for smart contracts
