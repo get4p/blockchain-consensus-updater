@@ -12,3 +12,4 @@
 // Improve scalability for smart contract platforms
 // Improve smart contract logging
 // Improve contract execution speed
+// Integrate chain-agnostic oracles
