@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Implement delegation pattern
 // Fix security vulnerability in random number generation
+// Refactor governance proposal logic
