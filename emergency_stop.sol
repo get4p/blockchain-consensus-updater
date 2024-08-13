@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Fix deserialization bug in Haskell code
 // Add support for decentralized file storage
+// Improve on-chain governance systems
