@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
+// Integrate IPFS for storage
