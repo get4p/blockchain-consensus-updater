@@ -8,3 +8,4 @@
 // Fix issues in multi-token smart contracts
 // Fix governance proposal approval logic
 // Improve ERC-721 token metadata functionality
+// Add support for decentralized auctions
