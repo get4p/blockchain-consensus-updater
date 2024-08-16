@@ -8,3 +8,4 @@
 // Update smart contract tests
 // Refactor validator reward system
 // Improve API rate limiting
+// Improve decentralized lending contract flexibility
