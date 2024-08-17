@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Refactor governance token logic
 // Integrate with external DeFi protocols
+// Add support for ERC-721A tokens
