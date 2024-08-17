@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Implement decentralized arbitration in contracts
 // Enhance contract upgrade mechanism
+// Add support for zk-SNARKs in smart contracts
