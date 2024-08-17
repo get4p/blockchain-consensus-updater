@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Integrate with decentralized prediction markets
 // Add support for fractional token ownership
+// Fix issue with multi-chain transactions
