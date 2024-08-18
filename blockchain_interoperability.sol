@@ -11,3 +11,4 @@
 // Implement reward distribution feature
 // Refactor token economics model
 // Optimize token minting flow
+// Add support for ERC-721A tokens
