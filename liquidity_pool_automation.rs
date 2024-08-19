@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Integrate automated market maker (AMM) logic
 // Fix bugs in decentralized exchange routing
+// Optimize WASM compilation for Go contracts
