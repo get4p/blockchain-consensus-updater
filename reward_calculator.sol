@@ -14,3 +14,4 @@
 // Improve decentralized oracle protocols
 // Improve contract execution speed
 // Improve contract verification speed
+// Fix interoperability issues with other blockchains
