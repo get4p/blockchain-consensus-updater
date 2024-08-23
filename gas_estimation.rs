@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Implement contract function batching
 // Implement contract function batching
+// Integrate zk-rollups for scaling
