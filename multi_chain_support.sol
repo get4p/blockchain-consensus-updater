@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Enhance privacy features using zk-STARKs
 // Optimize oracle data fetching mechanism
+// Enhance contract initialization process
