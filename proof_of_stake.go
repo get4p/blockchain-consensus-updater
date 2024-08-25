@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor Ethereum gas price management
 // Refactor incentive structure in DeFi protocol
+// Fix vulnerabilities in staking contracts
