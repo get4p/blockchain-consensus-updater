@@ -2,3 +2,4 @@
 // Update dependencies for Vyper contract
 // Update testing framework for Solidity
 // Improve multi-chain transaction processing
+// Add unit tests for staking module
