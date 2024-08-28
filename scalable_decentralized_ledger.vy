@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Fix data consistency issues in smart contracts
 // Integrate Chainlink VRF for randomness
+// Integrate zk-SNARKs for enhanced privacy
