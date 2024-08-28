@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Enhance transaction monitoring
 // Refactor storage layout for better efficiency
+// Add native support for staking rewards
