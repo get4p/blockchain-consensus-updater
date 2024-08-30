@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance governance contract flexibility
 // Enhance smart contract compatibility
+// Integrate with decentralized identity providers
