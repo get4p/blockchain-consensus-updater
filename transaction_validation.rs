@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Integrate with multi-token standards
 // Refactor multi-asset token management
+// Add multi-sig wallet functionality
