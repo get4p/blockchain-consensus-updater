@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Improve contract interaction via APIs
 // Improve gas estimation for transactions
+// Implement reward distribution feature
