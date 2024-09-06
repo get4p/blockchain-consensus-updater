@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Enhance privacy features using zk-STARKs
 // Improve staking and yield farming logic
+// Improve decentralized oracle protocols
