@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Improve staking logic for better rewards
 // Improve smart contract code modularity
+// Integrate flash loan functionality
