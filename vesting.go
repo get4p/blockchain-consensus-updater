@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Fix edge case in unstaking logic
 // Optimize Oracle-based data fetching
+// Refactor contract state machine design
