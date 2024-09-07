@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Refactor storage layout for better efficiency
 // Add native support for staking rewards
+// Upgrade to latest Solidity version
