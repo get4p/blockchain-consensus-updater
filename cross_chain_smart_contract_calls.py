@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Add batch processing for transactions
 // Add support for decentralized lending platforms
+// Add new feature: on-chain governance
