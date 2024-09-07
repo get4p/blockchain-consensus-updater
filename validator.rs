@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate with decentralized identity providers
 // Integrate with decentralized storage systems
+// Integrate with external DeFi protocols
