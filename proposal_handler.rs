@@ -6,3 +6,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix bugs in NFT metadata handling
 // Enhance cryptographic primitives in contracts
+// Fix issues with ERC-20 token approvals
