@@ -2,3 +2,4 @@
 // Integrate with external blockchain networks
 // Fix interoperability issues with other blockchains
 // Add native support for staking rewards
+// Refactor smart contract testing framework
