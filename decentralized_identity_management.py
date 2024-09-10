@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
+// Fix edge case in unstaking logic
