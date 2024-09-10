@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Add governance proposal expiration feature
 // Fix issues with cross-chain transaction finality
+// Implement zero-knowledge proof (ZKP) support
