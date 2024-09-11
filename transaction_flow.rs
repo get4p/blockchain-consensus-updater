@@ -11,3 +11,4 @@
 // Fix deserialization bug in Haskell code
 // Fix errors in contract interaction with wallets
 // Fix Oracle communication delay issues
+// Integrate with external blockchain networks
