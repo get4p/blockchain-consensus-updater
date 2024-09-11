@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Integrate flash loan functionality
 // Fix issues with ERC-20 token approvals
+// Refactor incentive structure in DeFi protocol
