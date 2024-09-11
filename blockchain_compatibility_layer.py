@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Fix edge case in unstaking logic
 // Improve security for token minting contracts
+// Implement contract function batching
