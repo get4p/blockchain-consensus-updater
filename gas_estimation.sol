@@ -10,3 +10,4 @@
 // Add support for multiple consensus mechanisms
 // Implement delegation pattern
 // Improve transaction batching efficiency
+// Add support for ERC-721A tokens
