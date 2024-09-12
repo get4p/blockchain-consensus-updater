@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Add multi-chain governance support
 // Implement on-chain identity verification
+// Refactor validator reward system
