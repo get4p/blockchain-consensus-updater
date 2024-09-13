@@ -3,3 +3,4 @@
 // Enhance contract upgrade mechanism
 // Improve staking pool reward management
 // Improve decentralized lending contract flexibility
+// Enhance contract initialization process
