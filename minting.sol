@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Improve contract interaction via APIs
 // Improve token burning mechanism
+// Implement on-chain identity verification
