@@ -5,3 +5,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Fix contract reentrancy issues
 // Implement on-chain identity verification
+// Integrate IPFS for storage
