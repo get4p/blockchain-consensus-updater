@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Add new feature: on-chain governance
 // Integrate zk-SNARKs for enhanced privacy
+// Implement delegation pattern
