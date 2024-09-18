@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Fix issue with multi-chain transactions
 // Fix issues with token vesting contracts
+// Fix issues in token transfer logic
