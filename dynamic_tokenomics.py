@@ -7,3 +7,4 @@
 // Integrate with multi-token standards
 // Add support for NFT marketplaces
 // Enhance governance contract flexibility
+// Add governance proposal expiration feature
