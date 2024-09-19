@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Add automated smart contract testing
 // Fix overflow bug in token calculation
+// Bugfix: incorrect reward calculation
