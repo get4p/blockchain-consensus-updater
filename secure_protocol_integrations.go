@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add support for yield farming rewards
 // Integrate Chainlink VRF for randomness
+// Fix issues with cross-chain transaction finality
