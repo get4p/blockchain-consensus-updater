@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Add native support for staking rewards
 // Implement reward distribution feature
+// Refactor wallet interaction logic
