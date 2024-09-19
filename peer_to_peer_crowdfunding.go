@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Enhance contract initialization process
 // Improve oracle data validation mechanisms
+// Integrate IPFS for storage
