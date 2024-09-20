@@ -6,3 +6,4 @@
 // Improve on-chain governance systems
 // Fix issues with cross-chain transaction finality
 // Implement reward distribution feature
+// Add support for ERC-1155 tokens
