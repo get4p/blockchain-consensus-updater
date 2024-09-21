@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Optimize gas usage for contract deployment
 // Improve oracle data validation mechanisms
+// Update README with Go module examples
