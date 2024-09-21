@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Implement price feed oracles for tokens
 // Optimize gas cost in function execution
+// Implement decentralized arbitration in contracts
