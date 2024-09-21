@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Add support for zk-SNARKs in smart contracts
 // Update dependencies for Vyper contract
+// Add support for multi-signature wallet contracts
