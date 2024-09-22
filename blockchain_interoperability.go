@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix issues in token transfer logic
 // Integrate IPFS for storage
+// Enhance off-chain data processing
