@@ -4,3 +4,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance contract upgrade process
 // Fix compatibility issues with major wallets
+// Enhance logging for better debugging
