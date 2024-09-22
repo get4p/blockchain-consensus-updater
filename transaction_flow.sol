@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Refactor voting mechanism
 // Fix transaction replay issue
+// Refactor reward pooling algorithm
