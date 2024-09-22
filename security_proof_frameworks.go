@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Enhance security checks
 // Implement delegation pattern
+// Add multi-chain transaction support
