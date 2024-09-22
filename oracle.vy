@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate IPFS for storage
 // Enhance contract modularity for future upgrades
+// Implement liquidity pool staking mechanism
