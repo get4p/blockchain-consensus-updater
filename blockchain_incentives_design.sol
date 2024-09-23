@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Refactor ERC-721 transfer logic
 // Refactor storage layout for better efficiency
+// Refactor governance proposal logic
