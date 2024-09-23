@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Integrate decentralized anonymous identity systems
 // Fix oracle data delays in decentralized apps
+// Fix deserialization bug in Haskell code
