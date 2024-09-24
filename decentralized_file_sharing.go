@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Improve error handling in transaction flow
 // Implement delegation pattern
+// Integrate privacy-preserving mechanisms
