@@ -7,3 +7,4 @@
 // Improve contract state management
 // Add multi-sig wallet functionality
 // Fix errors in NFT minting logic
+// Fix governance proposal approval logic
