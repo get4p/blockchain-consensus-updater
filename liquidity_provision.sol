@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor storage layout for better efficiency
 // Implement adaptive block size for Ethereum
+// Add support for ERC-721A tokens
