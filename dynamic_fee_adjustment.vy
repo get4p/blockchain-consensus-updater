@@ -9,3 +9,4 @@
 // Add decentralized contract upgradeability
 // Integrate with decentralized storage systems
 // Improve smart contract code modularity
+// Fix governance proposal approval logic
