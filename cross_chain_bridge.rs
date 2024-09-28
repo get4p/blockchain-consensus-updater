@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Add support for decentralized auctions
 // Fix Oracle communication delay issues
+// Refactor staking logic
