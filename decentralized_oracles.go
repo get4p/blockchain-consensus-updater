@@ -6,3 +6,4 @@
 // Enhance security checks
 // Fix type mismatch in Haskell smart contract
 // Optimize gas usage for contract deployment
+// Integrate zk-rollups for scaling
