@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix bugs in multi-token systems
 // Refactor ERC-721 transfer logic
+// Fix issues with cross-chain transaction finality
