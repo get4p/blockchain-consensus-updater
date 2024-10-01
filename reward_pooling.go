@@ -8,3 +8,4 @@
 // Implement reward distribution feature
 // Enhance contract upgrade mechanism
 // Optimize oracle data fetching mechanism
+// Refactor storage layout for better efficiency
