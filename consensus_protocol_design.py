@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor staking logic
 // Fix overflow bug in token calculation
+// Improve token minting flow efficiency
