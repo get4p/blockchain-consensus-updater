@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Fix compatibility issues with major wallets
 // Enhance logging for better debugging
+// Implement on-chain identity verification
