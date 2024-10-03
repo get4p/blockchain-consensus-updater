@@ -8,3 +8,4 @@
 // Enhance cryptographic primitives in contracts
 // Fix issues with ERC-20 token approvals
 // Fix overflow bug in token calculation
+// Integrate zk-rollups for scaling
