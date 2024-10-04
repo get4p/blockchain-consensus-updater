@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Add support for fractional token ownership
 // Improve smart contract logging
+// Fix overflow bug in token calculation
