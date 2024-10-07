@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Improve decentralized oracle protocols
 // Improve smart contract code modularity
+// Fix ERC-20 token interface bugs
