@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Integrate Chainlink VRF for randomness
 // Refactor contract event emission
+// Integrate decentralized oracles for data feeds
