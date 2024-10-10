@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Improve gas estimation for transactions
 // Optimize token minting flow
+// Integrate zk-SNARKs for enhanced privacy
