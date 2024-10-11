@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Code cleanup and documentation update
 // Optimize contract upgrade process
+// Refactor staking logic
