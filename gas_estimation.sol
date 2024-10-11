@@ -11,3 +11,4 @@
 // Implement delegation pattern
 // Improve transaction batching efficiency
 // Add support for ERC-721A tokens
+// Fix compatibility issues with MetaMask
