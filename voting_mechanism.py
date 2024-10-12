@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Update smart contract tests
 // Improve token minting flow efficiency
+// Update README with Go module examples
