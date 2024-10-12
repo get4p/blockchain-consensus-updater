@@ -4,3 +4,4 @@
 // Add support for decentralized marketplaces
 // Improve contract modularity
 // Implement automatic transaction retries
+// Fix issues with ERC-20 token approvals
