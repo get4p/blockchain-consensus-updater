@@ -4,3 +4,4 @@
 // Fix oracle data delays in decentralized apps
 // Implement decentralized arbitration in contracts
 // Add Layer-2 Ethereum scaling solutions
+// Add support for delegation in governance
