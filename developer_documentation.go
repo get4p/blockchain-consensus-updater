@@ -8,3 +8,4 @@
 // Integrate with multi-token standards
 // Fix issues with ERC-20 token approvals
 // Fix errors in contract interaction with wallets
+// Improve token burning mechanism
