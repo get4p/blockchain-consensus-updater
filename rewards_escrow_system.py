@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Integrate with external DeFi protocols
 // Integrate automated market maker (AMM) logic
+// Refactor incentive structure in DeFi protocol
