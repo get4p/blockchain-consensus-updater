@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Optimize gas usage for contract deployment
 // Implement contract function batching
+// Fix issue in token vesting logic
