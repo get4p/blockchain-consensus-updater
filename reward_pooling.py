@@ -10,3 +10,4 @@
 // Fix compatibility issues with major wallets
 // Fix Oracle communication delay issues
 // Add support for ERC-1155 tokens
+// Integrate IPFS for storage
