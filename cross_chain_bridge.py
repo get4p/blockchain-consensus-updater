@@ -9,3 +9,4 @@
 // Implement rewards escrow system
 // Improve gas fee estimation accuracy
 // Enhance test coverage for Rust module
+// Add non-fungible token (NFT) support
