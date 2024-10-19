@@ -9,3 +9,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix overflow bug in token calculation
 // Enhance governance contract flexibility
+// Optimize proof-of-stake validation
