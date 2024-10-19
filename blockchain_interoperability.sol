@@ -14,3 +14,4 @@
 // Add support for ERC-721A tokens
 // Improve contract state management
 // Improve oracle data validation mechanisms
+// Refactor governance token logic
