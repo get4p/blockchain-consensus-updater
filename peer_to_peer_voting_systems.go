@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Fix governance proposal approval logic
 // Fix Oracle communication delay issues
+// Enhance privacy features using zk-STARKs
