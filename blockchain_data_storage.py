@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Fix oracle data delays in decentralized apps
 // Fix governance proposal approval logic
+// Add multi-chain governance support
