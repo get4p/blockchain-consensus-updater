@@ -8,3 +8,4 @@
 // Enhance contract initialization process
 // Improve gas estimation for transactions
 // Integrate Chainlink VRF for randomness
+// Refactor contract to use EIP-712 signatures
