@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Integrate staking rewards automation
 // Refactor staking logic
+// Refactor wallet interaction logic
