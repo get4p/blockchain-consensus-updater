@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Enhance contract interaction APIs
 // Optimize oracle data fetching mechanism
+// Add support for zk-SNARKs in smart contracts
