@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Fix errors in contract interaction with wallets
 // Refactor contract to use EIP-712 signatures
+// Add support for decentralized content distribution
