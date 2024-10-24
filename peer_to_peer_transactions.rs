@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Improve gas fee estimation accuracy
 // Refactor governance token logic
+// Improve decentralized identity (DID) systems
