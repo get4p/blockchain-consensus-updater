@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Fix edge case in unstaking logic
 // Enhance transaction monitoring
+// Improve security for token minting contracts
