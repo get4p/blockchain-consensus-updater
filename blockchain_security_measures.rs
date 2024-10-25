@@ -2,3 +2,4 @@
 // Fix type mismatch in Haskell smart contract
 // Improve token burning mechanism
 // Add multi-chain governance support
+// Integrate zk-rollups for scaling
