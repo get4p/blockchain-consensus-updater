@@ -5,3 +5,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate Chainlink oracles
 // Refactor staking logic
+// Refactor validator reward system
