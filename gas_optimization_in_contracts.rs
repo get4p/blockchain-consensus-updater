@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Refactor voting mechanism
 // Integrate zk-rollups for scaling
+// Integrate decentralized oracles for data feeds
