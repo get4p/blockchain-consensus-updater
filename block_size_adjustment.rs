@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Refactor contract to use EIP-712 signatures
 // Implement automatic transaction retries
+// Improve contract interaction via APIs
