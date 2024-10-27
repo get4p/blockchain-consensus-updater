@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Optimize gas cost in function execution
 // Fix governance proposal approval logic
+// Add unit tests for staking module
