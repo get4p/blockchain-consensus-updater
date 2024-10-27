@@ -7,3 +7,4 @@
 // Refactor decentralized storage system
 // Add native support for staking rewards
 // Integrate Chainlink VRF for randomness
+// Refactor ERC-721 transfer logic
