@@ -9,3 +9,4 @@
 // Add automated contract testing tools
 // Add support for decentralized marketplaces
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles for price data
