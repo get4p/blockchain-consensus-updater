@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Add support for batch transaction processing
 // Optimize token minting flow
+// Refactor oracle interaction logic
