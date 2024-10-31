@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Refactor wallet interaction logic
 // Integrate with external DeFi protocols
+// Enhance gas fee management
