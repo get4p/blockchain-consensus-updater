@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Enhance contract initialization process
 // Improve contract state management
+// Improve decentralized exchange (DEX) liquidity
