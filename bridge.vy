@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Refactor staking logic
 // Refactor wallet interaction logic
+// Integrate with external DeFi protocols
