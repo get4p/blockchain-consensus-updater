@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Fix memory optimization issues in contracts
 // Enhance contract event handling
+// Fix overflow bug in token calculation
