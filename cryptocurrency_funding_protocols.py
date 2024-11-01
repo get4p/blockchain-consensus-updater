@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Improve contract execution performance
 // Integrate zk-rollups for scaling
+// Add fallback mechanism in Solidity contract
