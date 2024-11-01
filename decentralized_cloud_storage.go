@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Add support for decentralized insurance protocols
 // Fix issues with token transfer confirmations
+// Add multi-sig wallet functionality
