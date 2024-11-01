@@ -10,3 +10,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract state management
 // Implement rewards escrow system
+// Add support for zk-SNARKs in smart contracts
