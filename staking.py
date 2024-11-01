@@ -10,3 +10,4 @@
 // Fix issues with cross-chain transaction finality
 // Add governance proposal expiration feature
 // Refactor incentive structure in DeFi protocol
+// Fix governance proposal approval logic
