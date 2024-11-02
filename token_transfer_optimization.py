@@ -9,3 +9,4 @@
 // Improve contract creation process
 // Implement cross-chain bridge
 // Refactor storage layout for better efficiency
+// Add automated contract testing tools
