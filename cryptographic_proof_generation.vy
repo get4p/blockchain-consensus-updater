@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Reduce gas cost in minting logic
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink oracles for price data
