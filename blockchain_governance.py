@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Implement dynamic fee adjustment
 // Add support for DeFi lending protocols
+// Improve error handling in transaction flow
