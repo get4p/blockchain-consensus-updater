@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Enhance governance contract flexibility
 // Enhance decentralized autonomous governance
+// Refactor validator reward system
