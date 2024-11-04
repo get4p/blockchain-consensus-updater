@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor contract event emission
 // Integrate decentralized oracles for data feeds
+// Integrate chain-agnostic oracles
