@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Optimize gas usage in contract execution
 // Implement liquidity pool staking mechanism
+// Implement reward distribution feature
