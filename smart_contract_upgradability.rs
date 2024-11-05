@@ -10,3 +10,4 @@
 // Enhance decentralized autonomous organizations
 // Fix issues with contract state management
 // Improve DApp transaction flow
+// Fix race condition in staking pool
