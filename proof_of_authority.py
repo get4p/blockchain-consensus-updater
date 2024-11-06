@@ -9,3 +9,4 @@
 // Add support for NFT marketplaces
 // Improve DApp transaction flow
 // Implement automated governance voting
+// Integrate Chainlink VRF for randomness
