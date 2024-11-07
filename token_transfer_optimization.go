@@ -4,3 +4,4 @@
 // Add dynamic contract upgrade mechanisms
 // Refactor reward pooling algorithm
 // Enhance contract modularity
+// Refactor decentralized exchange (DEX) code
