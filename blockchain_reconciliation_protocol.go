@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Improve token minting flow efficiency
 // Enhance smart contract audit tools
+// Refactor contract to use EIP-712 signatures
