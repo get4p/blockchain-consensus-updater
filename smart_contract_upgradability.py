@@ -13,3 +13,4 @@
 // Improve smart contract logging
 // Improve contract execution speed
 // Integrate chain-agnostic oracles
+// Refactor Ethereum gas price management
