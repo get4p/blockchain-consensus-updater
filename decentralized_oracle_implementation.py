@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Fix ERC-721 contract issues with transfers
 // Improve contract auditing tools
+// Add support for multi-signature wallet contracts
