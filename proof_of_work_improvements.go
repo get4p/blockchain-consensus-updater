@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Improve transaction batching efficiency
 // Optimize WASM compilation for Go contracts
+// Optimize token burn process
