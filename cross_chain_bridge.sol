@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Refactor oracle interaction logic
 // Fix wallet interaction issues in DeFi protocols
+// Fix issues with token transfer confirmations
