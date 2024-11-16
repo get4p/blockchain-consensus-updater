@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Enhance transaction monitoring
 // Improve security for token minting contracts
+// Fix bugs in NFT metadata handling
