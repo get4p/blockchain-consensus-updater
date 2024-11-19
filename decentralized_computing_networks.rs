@@ -7,3 +7,4 @@
 // Optimize decentralized oracle performance
 // Implement performance optimizations for DeFi
 // Implement on-chain identity verification
+// Add support for zk-SNARKs in smart contracts
