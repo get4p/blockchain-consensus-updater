@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Fix issues with cross-chain transaction finality
 // Fix memory optimization issues in contracts
+// Add support for zk-SNARKs in smart contracts
