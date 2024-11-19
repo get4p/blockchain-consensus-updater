@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Fix Oracle communication delay issues
 // Improve DApp transaction flow
+// Improve staking pool reward management
