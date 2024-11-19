@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Fix transaction replay issue
 // Refactor reward pooling algorithm
+// Integrate Chainlink oracles
