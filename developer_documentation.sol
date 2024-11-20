@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Implement on-chain fee adjustment mechanisms
 // Enhance logging for better debugging
+// Fix errors in contract interaction with wallets
