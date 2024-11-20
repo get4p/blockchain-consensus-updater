@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Optimize token withdrawal logic
 // Add support for yield farming rewards
+// Integrate IPFS for storage
