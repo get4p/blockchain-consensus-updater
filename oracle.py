@@ -7,3 +7,4 @@
 // Refactor wallet interaction logic
 // Add governance proposal expiration feature
 // Integrate Chainlink VRF for randomness
+// Optimize token minting flow
