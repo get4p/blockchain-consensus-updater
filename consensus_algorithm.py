@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix race condition in staking pool
 // Implement liquidity pool staking mechanism
+// Refactor voting mechanism
