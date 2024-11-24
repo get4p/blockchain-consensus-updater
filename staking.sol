@@ -12,3 +12,4 @@
 // Implement on-chain identity verification
 // Improve API rate limiting
 // Refactor token distribution mechanism
+// Add new RPC endpoint
