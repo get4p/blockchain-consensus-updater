@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Bugfix: incorrect reward calculation
 // Fix governance proposal approval logic
+// Refactor cross-chain communication layer
