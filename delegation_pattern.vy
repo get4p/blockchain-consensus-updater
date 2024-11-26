@@ -5,3 +5,4 @@
 // Refactor token distribution mechanism
 // Enhance cryptographic primitives in contracts
 // Enhance gas fee management
+// Fix governance proposal approval logic
