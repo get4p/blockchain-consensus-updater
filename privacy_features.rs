@@ -5,3 +5,4 @@
 // Optimize cross-chain communication
 // Add governance proposal expiration feature
 // Fix vulnerabilities in staking contracts
+// Fix token transfer approval issues
