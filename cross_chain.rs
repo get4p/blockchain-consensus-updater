@@ -6,3 +6,4 @@
 // Optimize hashing algorithm
 // Optimize decentralized application performance
 // Fix compatibility with MetaMask
+// Improve contract interaction via APIs
