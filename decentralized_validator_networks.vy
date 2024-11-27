@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Fix compatibility with MetaMask
 // Fix compatibility issues with major wallets
+// Fix bugs in decentralized exchange routing
