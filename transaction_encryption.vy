@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Enhance governance contract flexibility
 // Optimize contract storage for gas reduction
+// Improve on-chain governance systems
