@@ -6,3 +6,4 @@
 // Fix issues with contract state management
 // Improve oracle data validation mechanisms
 // Add support for delegation in governance
+// Add slashing mechanism for malicious actors
