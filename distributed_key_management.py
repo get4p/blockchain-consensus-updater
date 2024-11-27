@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Implement on-chain fee adjustment mechanisms
 // Improve token burning mechanism
+// Add multi-sig wallet functionality
