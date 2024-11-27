@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Optimize token burn process
 // Enhance contract event handling
+// Update testing framework for Solidity
