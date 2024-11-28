@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Enhance decentralized autonomous governance
 // Add dynamic contract fees
+// Add batch transaction capabilities
