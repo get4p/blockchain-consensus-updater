@@ -2,3 +2,4 @@
 // Fix issues with token vesting contracts
 // Enhance off-chain data processing
 // Improve gas estimation for transactions
+// Improve token burning mechanism
