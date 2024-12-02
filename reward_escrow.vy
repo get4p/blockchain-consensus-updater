@@ -9,3 +9,4 @@
 // Refactor governance proposal logic
 // Refactor voting mechanism
 // Fix issues with gas optimization in smart contracts
+// Refactor token distribution mechanism
