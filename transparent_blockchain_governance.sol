@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Implement liquidity pool staking mechanism
 // Implement automated governance voting
+// Fix vulnerabilities in staking contracts
