@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Update README with Go module examples
 // Enhance decentralized autonomous governance
+// Improve decentralized identity (DID) systems
