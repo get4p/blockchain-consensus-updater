@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Implement delegation pattern
 // Integrate privacy-preserving mechanisms
+// Implement on-chain fee adjustment mechanisms
