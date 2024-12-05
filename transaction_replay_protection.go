@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Implement automatic transaction retries
 // Fix issues with ERC-20 token approvals
+// Refactor reward pooling algorithm
