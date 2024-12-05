@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Integrate chain-agnostic oracles
 // Add support for delegation in governance
+// Improve gas estimation for transactions
