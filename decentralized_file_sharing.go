@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Integrate privacy-preserving mechanisms
 // Implement on-chain fee adjustment mechanisms
+// Integrate Chainlink VRF for randomness
