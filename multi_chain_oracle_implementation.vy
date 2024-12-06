@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Improve security for token minting contracts
 // Improve error handling in transaction flow
+// Reduce gas cost in minting logic
