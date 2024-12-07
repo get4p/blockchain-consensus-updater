@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Add new feature: on-chain governance
 // Fix token transfer approval issues
+// Enhance transaction monitoring
