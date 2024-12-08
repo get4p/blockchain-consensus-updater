@@ -8,3 +8,4 @@
 // Improve contract state management
 // Refactor incentive structure in DeFi protocol
 // Refactor multi-signature wallet code
+// Add support for ERC-1155 tokens
