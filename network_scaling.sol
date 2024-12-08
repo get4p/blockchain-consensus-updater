@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous organizations
 // Refactor governance proposal logic
 // Enhance decentralized autonomous organizations
+// Improve staking pool reward management
