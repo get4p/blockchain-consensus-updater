@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Enhance privacy features using zk-STARKs
 // Refactor cross-chain communication layer
+// Integrate chain-agnostic oracles
