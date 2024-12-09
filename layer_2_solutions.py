@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Improve token burning mechanism
 // Refactor storage layout for better efficiency
+// Improve decentralized identity (DID) systems
