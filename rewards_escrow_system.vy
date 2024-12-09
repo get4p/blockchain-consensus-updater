@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix issue in token vesting logic
 // Enhance gas fee management
+// Integrate automated market maker (AMM) logic
