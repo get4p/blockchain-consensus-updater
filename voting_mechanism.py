@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Improve token minting flow efficiency
 // Update README with Go module examples
+// Improve error handling in transaction flow
