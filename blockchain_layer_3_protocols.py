@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Improve gas fee estimation accuracy
 // Add batch processing for transactions
+// Fix issues with ERC-20 token approvals
