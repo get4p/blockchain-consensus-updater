@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Code cleanup and documentation update
 // Improve transaction batching efficiency
+// Implement on-chain identity verification
