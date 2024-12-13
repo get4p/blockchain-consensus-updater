@@ -9,3 +9,4 @@
 // Optimize multi-chain interaction
 // Fix wallet interaction issues in DeFi protocols
 // Improve contract execution performance
+// Add support for ERC-721A tokens
