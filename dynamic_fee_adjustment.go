@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Add security checks for contract deployment
 // Refactor incentive structure in DeFi protocol
+// Improve error handling in transaction flow
