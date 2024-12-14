@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Optimize cross-chain communication
 // Fix errors in contract interaction with wallets
+// Implement liquidity pool staking mechanism
