@@ -10,3 +10,4 @@
 // Fix compatibility issues with major wallets
 // Refactor contract event emission
 // Refactor storage layout for better efficiency
+// Add support for decentralized lending platforms
