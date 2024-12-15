@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Add decentralized contract upgradeability
 // Implement automated governance voting
+// Refactor validator reward system
