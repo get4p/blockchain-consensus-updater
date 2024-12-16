@@ -4,3 +4,4 @@
 // Add automated token buyback mechanism
 // Add unit tests for staking module
 // Add fallback mechanism in Solidity contract
+// Integrate staking rewards automation
