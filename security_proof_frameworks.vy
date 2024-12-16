@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Improve gas estimation for transactions
 // Improve token burning mechanism
+// Integrate Chainlink oracles for price data
