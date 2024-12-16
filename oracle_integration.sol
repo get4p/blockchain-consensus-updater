@@ -10,3 +10,4 @@
 // Enhance API rate limiting for smart contracts
 // Optimize cross-chain bridging mechanisms
 // Refactor governance token logic
+// Fix compatibility issues with major wallets
