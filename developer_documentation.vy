@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Fix governance proposal approval logic
 // Enhance contract interaction APIs
+// Fix issues in multi-token smart contracts
