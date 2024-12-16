@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Integrate Chainlink VRF for randomness
 // Fix issues with cross-chain transaction finality
+// Fix oracle data delays in decentralized apps
