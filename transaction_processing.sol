@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Enhance governance contract flexibility
 // Improve staking pool reward management
+// Add governance proposal expiration feature
