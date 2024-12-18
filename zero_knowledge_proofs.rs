@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Upgrade to latest Solidity version
 // Refactor staking logic
+// Add automated contract testing tools
