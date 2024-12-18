@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Implement on-chain identity verification
 // Refactor validator reward system
+// Integrate with Ethereum Layer-2 solutions
