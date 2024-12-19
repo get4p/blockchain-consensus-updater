@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Integrate with decentralized identity providers
 // Integrate with decentralized prediction markets
+// Fix type mismatch in Haskell smart contract
