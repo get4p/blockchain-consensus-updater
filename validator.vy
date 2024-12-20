@@ -8,3 +8,4 @@
 // Fix issue in ERC-20 token transfers
 // Update smart contract tests
 // Improve staking pool reward management
+// Fix issue in ERC-20 token transfers
