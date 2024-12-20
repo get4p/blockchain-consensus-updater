@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Fix wallet interaction issues in DeFi protocols
 // Fix issues with token transfer confirmations
+// Fix compatibility issues with MetaMask
