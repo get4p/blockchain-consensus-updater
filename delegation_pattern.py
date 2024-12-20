@@ -9,3 +9,4 @@
 // Improve gas fee estimation accuracy
 // Fix ERC-1155 contract interactions
 // Refactor staking logic
+// Fix issues with token transfer confirmations
