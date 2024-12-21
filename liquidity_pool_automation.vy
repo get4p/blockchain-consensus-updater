@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add native support for staking mechanisms
 // Enhance smart contract compatibility
+// Add support for NFT marketplaces
