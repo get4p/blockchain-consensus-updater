@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix edge case in unstaking logic
 // Refactor incentive structure in DeFi protocol
+// Add support for multiple consensus mechanisms
