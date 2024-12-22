@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix issue with multi-chain transactions
 // Fix interoperability issues with other blockchains
+// Integrate with decentralized identity providers
