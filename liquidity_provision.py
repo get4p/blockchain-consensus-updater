@@ -8,3 +8,4 @@
 // Refactor decentralized storage system
 // Improve contract creation process
 // Integrate flash loan functionality
+// Fix type mismatch in Haskell smart contract
