@@ -3,3 +3,4 @@
 // Refactor multi-signature wallet code
 // Optimize decentralized application performance
 // Integrate privacy-enhancing smart contracts
+// Add support for zk-SNARKs in smart contracts
