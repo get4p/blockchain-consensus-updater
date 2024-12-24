@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Integrate with external blockchain networks
 // Enhance contract interaction APIs
+// Fix compatibility with MetaMask
