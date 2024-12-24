@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Improve decentralized oracle protocols
 // Enhance decentralized autonomous governance
+// Refactor Ethereum gas price management
