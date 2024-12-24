@@ -10,3 +10,4 @@
 // Fix errors in contract interaction with wallets
 // Improve token burning mechanism
 // Refactor contract state machine design
+// Fix issue with multi-chain transactions
