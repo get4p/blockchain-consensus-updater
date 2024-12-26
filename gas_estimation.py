@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles
 // Improve cross-chain asset management
 // Enhance privacy features using zk-STARKs
+// Improve token burning mechanism
