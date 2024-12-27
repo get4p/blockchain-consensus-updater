@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Refactor validator reward system
 // Enhance contract modularity for future upgrades
+// Fix issue with multi-chain transactions
