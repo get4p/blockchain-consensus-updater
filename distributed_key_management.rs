@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Refactor staking logic
 // Implement performance optimizations for DeFi
+// Improve gas estimation for transactions
