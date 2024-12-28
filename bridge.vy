@@ -10,3 +10,4 @@
 // Refactor wallet interaction logic
 // Integrate with external DeFi protocols
 // Enhance gas fee management
+// Refactor storage layout for better efficiency
