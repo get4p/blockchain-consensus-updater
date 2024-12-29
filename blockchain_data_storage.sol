@@ -8,3 +8,4 @@
 // Refactor wallet interaction logic
 // Refactor multi-asset token management
 // Enhance decentralized autonomous organizations
+// Fix issues with token transfer confirmations
