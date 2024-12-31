@@ -10,3 +10,4 @@
 // Improve gas fee estimation accuracy
 // Enhance test coverage for Rust module
 // Add non-fungible token (NFT) support
+// Fix interoperability issues with other blockchains
