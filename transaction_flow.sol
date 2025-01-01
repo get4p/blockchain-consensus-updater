@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Refactor reward pooling algorithm
 // Integrate Chainlink oracles
+// Update smart contract tests
