@@ -15,3 +15,4 @@
 // Improve contract execution speed
 // Improve contract verification speed
 // Fix interoperability issues with other blockchains
+// Add batch processing for transactions
