@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Add support for delegation in governance
 // Improve gas estimation for transactions
+// Optimize contract upgrade process
