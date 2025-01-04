@@ -7,3 +7,4 @@
 // Fix ERC-1155 contract interactions
 // Implement automatic transaction retries
 // Optimize contract storage for gas reduction
+// Add support for multi-signature wallet contracts
