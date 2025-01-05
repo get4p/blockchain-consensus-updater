@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Improve token burning mechanism
 // Fix issue with multi-chain transactions
+// Refactor decentralized storage system
