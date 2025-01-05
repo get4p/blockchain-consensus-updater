@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Refactor decentralized exchange (DEX) code
 // Fix deserialization bug in Haskell code
+// Improve error handling in transaction flow
