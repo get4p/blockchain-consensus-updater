@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Integrate IPFS for storage
 // Refactor token distribution mechanism
+// Refactor validator reward system
