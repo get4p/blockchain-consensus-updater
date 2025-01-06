@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Implement contract function batching
 // Refactor Ethereum gas price management
+// Add support for fractional token ownership
