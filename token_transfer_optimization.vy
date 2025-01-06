@@ -2,3 +2,4 @@
 // Improve contract state management
 // Enhance contract upgrade process
 // Optimize Oracle-based data fetching
+// Bugfix: incorrect reward calculation
