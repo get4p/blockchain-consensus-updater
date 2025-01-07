@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Improve decentralized identity (DID) systems
 // Add new RPC endpoint
+// Fix errors in contract interaction with wallets
