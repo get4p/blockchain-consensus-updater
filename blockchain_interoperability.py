@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Add security checks for contract deployment
 // Add native support for staking mechanisms
+// Add support for fractional token ownership
