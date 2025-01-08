@@ -9,3 +9,4 @@
 // Improve decentralized lending contract flexibility
 // Fix ERC-1155 contract interactions
 // Add support for decentralized marketplaces
+// Add support for cross-chain bridges
