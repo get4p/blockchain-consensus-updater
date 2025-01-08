@@ -7,3 +7,4 @@
 // Enhance test coverage for Rust module
 // Implement on-chain identity verification
 // Fix errors in contract interaction with wallets
+// Add support for yield farming rewards
