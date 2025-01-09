@@ -7,3 +7,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix ERC-721 contract issues with transfers
 // Integrate with decentralized prediction markets
+// Implement zero-knowledge proof (ZKP) support
