@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Enhance contract upgrade mechanism
 // Enhance gas fee management
+// Integrate Chainlink VRF for randomness
