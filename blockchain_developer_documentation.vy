@@ -4,3 +4,4 @@
 // Improve contract state management
 // Implement performance optimizations for DeFi
 // Implement on-chain identity verification
+// Add new feature: on-chain governance
