@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize token withdrawal logic
+// Integrate with decentralized identity providers
