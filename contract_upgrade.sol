@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Refactor validator reward system
 // Integrate with Ethereum Layer-2 solutions
+// Fix ERC-721 contract issues with transfers
