@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor governance token logic
 // Add support for ERC-1155 tokens
+// Refactor storage layout for better efficiency
