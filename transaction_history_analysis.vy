@@ -2,3 +2,4 @@
 // Enhance contract state verification
 // Optimize gas cost in function execution
 // Implement time-locked contract execution
+// Enhance privacy features using zk-STARKs
