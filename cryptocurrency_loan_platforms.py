@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Improve staking logic for better rewards
 // Implement zero-knowledge proof (ZKP) support
+// Fix compatibility issues with MetaMask
