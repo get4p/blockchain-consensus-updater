@@ -8,3 +8,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance security checks
 // Refactor decentralized storage system
+// Integrate privacy-preserving mechanisms
