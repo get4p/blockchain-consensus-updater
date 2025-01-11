@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Add automated smart contract testing
 // Bugfix: incorrect reward calculation
+// Integrate privacy-enhancing smart contracts
