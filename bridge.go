@@ -10,3 +10,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve gas fee estimation accuracy
 // Add support for batch transaction processing
+// Fix issue in token vesting logic
