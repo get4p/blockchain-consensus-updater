@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance governance contract flexibility
 // Optimize hashing algorithm
+// Enhance smart contract compatibility
