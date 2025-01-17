@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Refactor oracle interaction logic
 // Enhance API rate limiting for smart contracts
+// Improve gas estimation for transactions
