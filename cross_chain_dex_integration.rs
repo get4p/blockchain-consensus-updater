@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Add support for multiple consensus mechanisms
 // Fix bugs in NFT metadata handling
+// Add multi-sig wallet functionality
