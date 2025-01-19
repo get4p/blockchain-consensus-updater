@@ -3,3 +3,4 @@
 // Add gas optimization features for smart contracts
 // Improve staking and yield farming logic
 // Integrate privacy-preserving mechanisms
+// Add governance proposal expiration feature
