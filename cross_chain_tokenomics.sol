@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Optimize gas usage for contract deployment
 // Fix interoperability issues with other blockchains
+// Add support for ERC-1155 tokens
