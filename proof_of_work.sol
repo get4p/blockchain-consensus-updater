@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Improve decentralized identity (DID) systems
 // Improve security in decentralized applications
+// Refactor staking logic
