@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Refactor contract to use EIP-712 signatures
 // Optimize multi-chain interaction
+// Fix interoperability issues with other blockchains
