@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Fix transaction replay issue
 // Refactor reward pooling algorithm
+// Enhance contract upgrade mechanism
