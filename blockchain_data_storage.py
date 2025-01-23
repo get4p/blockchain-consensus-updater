@@ -9,3 +9,4 @@
 // Fix oracle data delays in decentralized apps
 // Fix governance proposal approval logic
 // Add multi-chain governance support
+// Add support for ERC-721A tokens
