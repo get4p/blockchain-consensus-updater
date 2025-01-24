@@ -9,3 +9,4 @@
 // Improve decentralized oracle protocols
 // Integrate decentralized oracles for data feeds
 // Integrate automated market maker (AMM) logic
+// Improve staking logic for better rewards
