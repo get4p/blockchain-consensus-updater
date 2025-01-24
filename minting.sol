@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Improve token burning mechanism
 // Implement on-chain identity verification
+// Integrate privacy-preserving mechanisms
