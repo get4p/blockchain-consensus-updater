@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Enhance smart contract audit tools
 // Fix compatibility with MetaMask
+// Add new feature: on-chain governance
