@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Integrate zk-rollups for scaling
 // Implement adaptive block size for Ethereum
+// Refactor reward pooling algorithm
