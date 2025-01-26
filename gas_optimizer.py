@@ -8,3 +8,4 @@
 // Integrate chain-agnostic oracles
 // Fix contract reentrancy issues
 // Fix overflow bug in token calculation
+// Fix issues with token vesting contracts
