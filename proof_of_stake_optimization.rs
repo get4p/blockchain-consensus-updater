@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add governance proposal expiration feature
 // Fix vulnerabilities in staking contracts
+// Optimize proof-of-stake validation
