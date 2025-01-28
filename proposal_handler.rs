@@ -11,3 +11,4 @@
 // Integrate zk-rollups for scaling
 // Refactor token distribution mechanism
 // Improve error handling in transaction flow
+// Implement price feed oracles for tokens
