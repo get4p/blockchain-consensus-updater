@@ -11,3 +11,4 @@
 // Add batch transaction capabilities
 // Improve decentralized exchange (DEX) liquidity
 // Fix issue in token vesting logic
+// Fix issue in token vesting logic
