@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Implement decentralized arbitration in contracts
 // Refactor contract state machine design
+// Optimize storage for off-chain data
