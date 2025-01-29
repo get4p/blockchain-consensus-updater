@@ -3,3 +3,4 @@
 // Fix ERC-721 contract issues with transfers
 // Improve API rate limiting
 // Integrate Chainlink oracles for price data
+// Add new feature: on-chain governance
