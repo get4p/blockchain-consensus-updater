@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Fix issues with cross-chain transaction finality
 // Refactor storage layout for better efficiency
+// Refactor multi-asset token management
