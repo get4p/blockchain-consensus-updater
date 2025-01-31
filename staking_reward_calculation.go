@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Integrate automated market maker (AMM) logic
 // Fix transaction replay issue
+// Add multi-chain transaction support
