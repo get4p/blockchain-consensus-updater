@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Improve contract state management
 // Improve decentralized exchange (DEX) liquidity
+// Add support for zk-SNARKs in smart contracts
