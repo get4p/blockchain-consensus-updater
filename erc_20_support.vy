@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Enhance gas fee management
 // Fix governance proposal approval logic
+// Add governance proposal expiration feature
