@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Enhance contract upgrade process
 // Enhance developer documentation
+// Improve staking logic for better rewards
