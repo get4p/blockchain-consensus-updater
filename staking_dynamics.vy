@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Optimize proof-of-stake validation
 // Implement delegation pattern
+// Integrate Chainlink VRF for randomness
