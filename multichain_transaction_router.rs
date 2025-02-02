@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Add support for ERC-1155 tokens
 // Improve contract verification speed
+// Implement a new contract event system
