@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Integrate privacy-enhancing smart contracts
 // Add batch processing for transactions
+// Improve API rate limiting
